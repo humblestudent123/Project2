@@ -1,0 +1,15 @@
+{
+  "bin": {
+    "brain-games": "bin/menu-games.js"
+  },
+  "name": "@hexlet/code",
+  "type": "module",
+  "version": "1.0.0",
+  "main": "menu-game.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
