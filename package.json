@@ -11,7 +11,9 @@
   "bin": {
     "code": "menu-game.js"
   },
-  "dependencies": {},
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  },
   "devDependencies": {},
   "description": ""
 }
